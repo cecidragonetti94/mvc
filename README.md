@@ -1,5 +1,6 @@
 # mvc
-
+## netlify 
+https://main--lucent-mermaid-eeda4c.netlify.app/
 ## Project setup
 ```
 npm install
