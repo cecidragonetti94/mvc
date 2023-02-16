@@ -1,0 +1,28 @@
+{
+      "products":{
+            "edit":"Editar",
+            "delete":"Eliminar",
+            "editProduct":"Editar producto",
+            "addProduct":"Agregar producto",
+            "nameProduct":"Nombre",
+            "description":"Descripción",
+            "category":"Categoria",
+            "price":"Precio",
+            "image":"Imagen",
+            "accept":"Aceptar",
+            "cancel":"Cancelar",
+            "deleteProduct":"Eliminar producto",
+            "addCorrect":"Se agregó correctamente",
+            "required":"Complete los campos requeridos",
+            "editCorrect":"Se editó correctamente",
+            "deleteCorrect":"Se eliminó correctamente"
+            
+      },
+      "nav":{
+            "title":"MarketPlace",
+            "account":"Mi cuenta"
+      },
+      "home":{
+            "title":"Del exterior a tu casas"
+      }
+}
